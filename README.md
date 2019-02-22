@@ -1,7 +1,4 @@
-# MOZ-s-Particles
-a cheap prefab for vrchat
-
-HELLO ^_^) Welcome to MOZ's particles prefab v7 readme!
+HELLO ^_^) Welcome to MOZ's particles prefab v8 readme!
 Choose one of the 3 version of the particles or feel free to edit them to your liking/needs!
 
 I AM A BEGINNNER WHAT IS THIS?
@@ -32,6 +29,10 @@ I added them and send collision messages too, it was fun to break stuff with tho
 if you want collision i suggest adding them only on one of the 4 in total emitters, 
 i am left handed so i have them on one of the emitters of left hand only.
 Or just lower down the emission rate XD
+
+Added: Final IK limb version (fas superior to fixed joints, smoother and works in any vrchat world)
+Fixed: Broken animation path from v7
+NOTES: IK version uses different animations, copy the keyframes inside its prefab folder not the normal ones
 
 
 Credits: 
