@@ -30,7 +30,8 @@ if you want collision i suggest adding them only on one of the 4 in total emitte
 i am left handed so i have them on one of the emitters of left hand only.
 Or just lower down the emission rate XD
 
-Added: Final IK limb version (fas superior to fixed joints, smoother and works in any vrchat world)
+--WHAT'S NEW IN V8--
+Added: Final IK limb version (far superior to fixed joints, smoother and works in any vrchat world)
 Fixed: Broken animation path from v7
 NOTES: IK version uses different animations, copy the keyframes inside its prefab folder not the normal ones
 
